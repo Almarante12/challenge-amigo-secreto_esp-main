@@ -23,7 +23,7 @@ amigo-secreto/
 ##  Cómo usarlo  
 1. Clona este repositorio en tu computadora:  
    ```bash
-   git clone https://github.com/almarnate12/challenge-amigo-secreto_esp-main.git
+   git clone https://github.com/almarante12/challenge-amigo-secreto_esp-main.git
 2.  Abre el archivo index.html en tu navegador.
 3.  Decribe los nombres de tus amigos y pulsa Añadir.
 4.  Cuando tengas todos los nombres, pulsa Sortear amigo.
